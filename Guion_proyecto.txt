@@ -1,0 +1,11 @@
+11/03/2024
+Programa de prueba para comprobar que el ESP32 funciona correctamente, el programa funciona desde Arduino IDE
+ y para ponerlo en marcha se debió añadir la placa ESP32 a la librería de placas así como también descargar un 
+programa controlador para que el ordenador detectase correctamente la placa y se pudiese establecer la comunicación 
+a través del puerto COM3.
+
+12/04/2024
+Se ha probado el sensor en el Arduino, tanto el programa de calibración como el de medida, hemos puesto
+el sensor en una posición fija para calibrarlo y vemos que al moverlo en el eje x e y los valores cambian correctamente,
+además, al moverlo en el eje z no hay cambios ni en los valores de posición angular en x y en y.
+
